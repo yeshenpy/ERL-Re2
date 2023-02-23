@@ -61,8 +61,7 @@ If you find this repository useful, please cite our paper:
     @inproceedings{
     li2023erlre,
     title={{ERL}-Re\${\textasciicircum}2\$: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation },
-    author={Jianye HAO and Pengyi Li and Hongyao Tang and YAN ZHENG and Xian Fu and Zhaopeng Meng},
+    author={Pengyi Li and Hongyao Tang and Jianye HAO and YAN ZHENG and Xian Fu and Zhaopeng Meng},
     booktitle={International Conference on Learning Representations},
-    year={2023},
-    url={https://openreview.net/forum?id=FYZCHEtt6H0}
+    year={2023}
     }
