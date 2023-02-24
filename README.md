@@ -1,7 +1,7 @@
 
 # ICLR 2023: ERL-Re$^2$: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation
 
-Official code for the paper "ERL-Re$^2$: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation" (<https://arxiv.org/abs/2210.17375>). **ERL-Re$^2$ achieves current SOTA in ERL field**.
+Official code for the paper "ERL-Re$^2$: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation" (<https://arxiv.org/abs/2210.17375>). **ERL-Re$^2$ achieves current SOTA in the ERL field**.
 
 **ERL-Re$^2$** is a novel framework to integrate EA and RL. The cornerstone of ERL-Re$^2$ is two-scale representation: all EA and RL policies share the same nonlinear state representation while maintaining individual linear policy representations. The state representation conveys expressive common features of the environment learned by all the agents collectively; the linear policy representation provides a favorable space for efficient policy optimization, where novel behavior-level crossover and mutation operations can be performed. Moreover, the linear policy representation allows convenient generalization of policy fitness with the help of Policy-extended Value Function Approximator (PeVFA), further improving the sample efficiency. This repository is based on <https://github.com/crisbodnar/pderl>.
 
