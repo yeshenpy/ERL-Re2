@@ -5,6 +5,7 @@ Official code for the paper "ERL-Re$^2$: Efficient Evolutionary Reinforcement Le
 
 **ERL-Re$^2$** is a novel framework to integrate EA and RL. The cornerstone of ERL-Re$^2$ is two-scale representation: all EA and RL policies share the same nonlinear state representation while maintaining individual linear policy representations. The state representation conveys expressive common features of the environment learned by all the agents collectively; the linear policy representation provides a favorable space for efficient policy optimization, where novel behavior-level crossover and mutation operations can be performed. Moreover, the linear policy representation allows convenient generalization of policy fitness with the help of Policy-extended Value Function Approximator (PeVFA), further improving the sample efficiency. This repository is based on <https://github.com/crisbodnar/pderl>.
 
+### ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) You can explore more information on state-of-the-art ERL works by visiting [https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning).
 
 # Installation
 Known dependencies: MUJOCO 200,
