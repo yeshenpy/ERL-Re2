@@ -57,7 +57,7 @@ Run the `run.sh` file directly, Hyperparameter settings can be found in the pape
 
 ## Publication
 
-If you find this repository useful, please cite our paper:
+If you find this repository useful or use our code, please cite our paper:
 
     @inproceedings{
     li2023erlre,
